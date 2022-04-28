@@ -20,6 +20,7 @@
  
 </div>
 
+## About me
 - 🏢 I'm currently studying data science and computer science
 - ⚙️ I use daily: `python`
 - 🌱 Learning all about editing videos
