@@ -1,8 +1,9 @@
-[![xxGabrielNeryxx GitHub stats](https://github-readme-stats.vercel.app/api?username=xxGabrielNeryxx)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 👋 Hi, I’m @xxGabrielNeryxx
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data and Coding
+- 🌱 I’m currently learning Python for Data science
+- 💞️ I’m looking to collaborate on Data science projects
+- 📫 How to reach me 
 
+[![xxGabrielNeryxx GitHub stats](https://github-readme-stats.vercel.app/api?username=xxGabrielNeryxx)](https://github.com/xxGabrielNeryxx/github-readme-stats)
