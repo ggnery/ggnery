@@ -7,3 +7,4 @@
 - 📫 How to reach me 
 
 [![xxGabrielNeryxx GitHub stats](https://github-readme-stats.vercel.app/api?username=xxGabrielNeryxx)](https://github.com/xxGabrielNeryxx/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
