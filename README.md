@@ -12,6 +12,6 @@
   <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <br>
-  <a href= "https://www.instagram.com/gabrielnery14/"><img height="70em" src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white>
+  <a href= "https://www.instagram.com/gabrielnery14/" target="_blank"><img height="30em" src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white>
                  
 <div>
