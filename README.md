@@ -6,4 +6,4 @@
 - 📫 How to reach me 
 
 
-![xxGabrielNeryxx GitHub stats](https://github-readme-stats.vercel.app/api?username=xxGabrielNeryxx&show_icons=true&theme=radical)
+![xxGabrielNeryxx GitHub stats](https://github-readme-stats.vercel.app/api?username=xxGabrielNeryxx&show_icons=true&theme=dracula)
