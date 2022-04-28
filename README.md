@@ -14,6 +14,13 @@
   <a href="https://www.instagram.com/gabrielnery14/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   <a href="https://www.linkedin.com/in/gabriel-nery-013617231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
  
-  ![Snake animation](https://github.com/xxGabrielNeryxx/xxGabrielNeryxx/blob/output/github-contribution-grid-snake.svg)
+  🏢 I'm currently working at Medicare Portugal
+⚙️ I use daily: .php, .js, .html, .css, .svg, .psd, .ai
+🌍 I'm mostly active within the Laravel Community
+💅 Designed: @pestphp, NorthMeetsSouth.audio, ThenPing.me, HappydDev.fm, etc…
+🌱 Learning all about Open Source
+💬 Ping me about design, branding, laravel, development, design thinking
+📫 Reach me: twitter.com/caneco
+⚡️ Fun fact: I'm a huge fan of Harry Potter
  
 </div>
