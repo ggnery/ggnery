@@ -20,7 +20,7 @@
  
 </div>
 
-- 🏢 I'm currently working studying data science and computer science
+- 🏢 I'm currently studying data science and computer science
 - ⚙️ I use daily: `python`
 - 🌱 Learning all about editing videos
 - 💬 Ping me about **progaming**, **data**, **design**, **video editing**
