@@ -8,6 +8,7 @@
 <div>
   <img height="180em" src=https://github-readme-stats.vercel.app/api?username=xxGabrielNeryxx&show_icons=true&theme=onedark>
   <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=xxGabrielNeryxx&theme=onedark>
-  <img height="18em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <br>
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
           
 <div>
