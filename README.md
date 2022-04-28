@@ -3,4 +3,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxGabrielNeryxx&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+</div>
+
 
