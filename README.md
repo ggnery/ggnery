@@ -4,7 +4,12 @@
 </div>
 <br>
 <div>
-  <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+
+  <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  
+  <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg" />
+          
   <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
           
@@ -21,8 +26,8 @@
 </div>
 
 ## About me
-- 🏢 I'm currently studying data science and computer science
-- ⚙️ I use daily: `python`
-- 🌱 Learning all about editing videos
-- 💬 Ping me about **progaming**, **data**, **design**, **video editing**
-- ⚡️ Fun fact: I'm a huge fan of Dark Souls
+- 🏢 I'm currently studying Java and Node.js
+- ⚙️ I use daily: Java and JavaScript
+- 🌱 Learning all about WebAssembly, Java, Node.js and DevOps
+- 💬 Ping me about **Progaming**, **Networks**, **DevOps**
+- ⚡️ Fun fact: I'm a huge fan of and open source
